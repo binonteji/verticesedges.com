@@ -1,3 +1,3 @@
 # verticesedges.com
 
-This repo is restricted to this website blog posts.
+This repo is restricted to <link>this</link> website blog posts.
