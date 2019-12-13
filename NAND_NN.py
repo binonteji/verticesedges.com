@@ -49,5 +49,5 @@ if __name__ == '__main__':
 	print('Bias before training : ', *nn.bias)
 	predicted_result = nn.train(training_inputs, training_outputs, training_iterations)
 	print('\nWeights after training : ', *nn.weights)
-	print('Bias before training : ', *nn.bias)
+	print('Bias after training : ', *nn.bias)
 	print('Predicted Output : ', *predicted_result)
